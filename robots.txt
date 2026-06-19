@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-fjt5vr.theevilpig.com/sitemap.xml
